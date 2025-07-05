@@ -1,0 +1,23 @@
+# Gradle
+/javasolutions/.gradle/
+/javasolutions/build/
+/javasolutions/gradle/wrapper/gradle-wrapper.jar
+/javasolutions/gradle/wrapper/gradle-wrapper.properties
+/javasolutions/gradlew
+/javasolutions/gradlew.bat
+
+# IntelliJ IDEA
+/.idea/
+/.idea/
+/.idea/*.iml
+*.iml
+
+# Build output
+/javasolutions/build/
+/javasolutions/out/
+
+# Misc
+/.DS_Store
+
+# Exclude settings and caches
+/javasolutions/.gradle/
